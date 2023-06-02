@@ -11,7 +11,7 @@
 
 ## Answered the following questions:
 
--Why is it important to manage complexity in Software?
+- Why is it important to manage complexity in Software?
 - What are the factors that create complexity in Software?
 - What are ways in which complexity can be managed in JavaScript?
 - Are there implications of not managing complexity on a small scale?
